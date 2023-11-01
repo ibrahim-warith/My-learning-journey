@@ -1,0 +1,18 @@
+mkdir; To create folder
+MD; create folder
+  help
+  touch; To create text-file
+  cls;clear screen
+  exit
+  ls;list
+  code.; toopen code-editor in current file
+  . ; sub folder
+  .. ; parent folder
+
+  ren ; rename  folder
+  dir; it also  work like ls.
+  rmdir; it forcefully remove folder without asking yes or no option.
+
+  NOTE*; if you want to create a folder with a space in btwn it a to be qouted.
+  
+          
