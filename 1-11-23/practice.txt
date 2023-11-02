@@ -1,0 +1,7 @@
+I practice 
+rm -rf .git; to remove git
+branch
+remote
+add
+add .
+init
