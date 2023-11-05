@@ -1,0 +1,7 @@
+types of css;inline and external-stylesheet css
+american english is not allow in css e.g:colour is not allow and so manny other 
+help; to check if there is error in a simple i recommend "w3c"
+inline css;
+<p styles="font-size:64px"> i am a paragraph</> semi-colomn is to be added when you want to add  more styles
+external css in creating of stylesheet and linking it to the html 
+                                CHAPTER 1 END
