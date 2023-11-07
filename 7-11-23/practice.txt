@@ -1,0 +1,18 @@
+Typography; 
+text-transform
+text-align
+text-indent
+line-height
+font-weight
+font-style
+letter-spacing
+word-spacing
+font-family
+note*;Google font helps in getting more font
+*Link in css
+unvisited link are blue by default
+visited link are purple by default
+cursor; pointer,not-allowed
+sudo class;
+types:visited,hover,active ,focus
+Note*sudo class has more specificity
