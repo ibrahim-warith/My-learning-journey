@@ -1,0 +1,15 @@
+link in css;
+sudo class
+sudo type;
+visited
+hover
+active
+focus
+note:sudo has more specificity
+css list;
+list-style-type
+list-style-position
+sudo class>:
+sudo element>::
+mini project;
+display block takes 100% of the  space given
