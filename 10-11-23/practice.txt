@@ -1,0 +1,11 @@
+position;
+z-index
+float box;
+justify-content:it help in align in content
+flex-dirction:for selecting column and row
+flex wrap :it wrap element in a container
+NOTE: flex froggy good website to practice flex
+
+image;
+full-ground-image
+background image
