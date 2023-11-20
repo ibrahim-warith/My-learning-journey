@@ -1,0 +1,18 @@
+animation;
+skew
+translate
+rotate
+scale
+
+ease
+identifier;name assigned
+
+animation-name
+animation-duration
+animation-timing-function
+animation-delay
+animation-iteration-count
+animation-decoration
+animation-fill-made
+keyframe
+scale

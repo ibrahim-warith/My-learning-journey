@@ -1,0 +1,15 @@
+pseudo;
+pseudo class;
+is
+where
+target
+alt
+content
+first-letter
+first-line
+variable;
+all our variable will be define inside the root
+function;
+calc
+max
+clamp
