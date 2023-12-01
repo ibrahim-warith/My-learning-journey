@@ -1,0 +1,13 @@
+Array
+push
+pop
+shift
+unshift
+selector;
+id
+class
+query;
+class: .
+id: #
+for;
+counting in javascript
