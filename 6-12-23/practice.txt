@@ -1,0 +1,9 @@
+remove boilerplate;
+remove src
+create src  folder
+create inx.js inside src
+toggle sidebar 
+create a react app
+npm init
+npm use
+ 
